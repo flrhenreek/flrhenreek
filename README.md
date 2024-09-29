@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I started learning to code back in October 2023, I finished a course mainly focused on Laravel then after a little break I started learning JavaScript and switched to React.
+I started learning to code back in October 2023, I finished a course mainly focused on Laravel then after a little break I started learning JavaScript and switched to React. I'm open to any jobs.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [d.henrik70@gmail.com](mailto:d.henrik70@gmail.com)
